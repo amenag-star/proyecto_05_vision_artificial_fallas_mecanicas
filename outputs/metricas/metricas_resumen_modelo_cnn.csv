@@ -1,0 +1,2 @@
+modelo,test_loss,test_accuracy,cantidad_imagenes,clases
+CNN visión artificial fallas mecánicas,0.09561112523078918,1.0,285,"Defected1, Defected2, Normal"
